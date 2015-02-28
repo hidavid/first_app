@@ -44,8 +44,11 @@ Rails.application.configure do
   # Set to :debug to see everything in the log.
   config.log_level = :info
 
+<<<<<<< HEAD
   config.secret_key_base = ENV["SECRET_KEY_BASE"]
 
+=======
+>>>>>>> 1a15415ab4b1139a6a1687e281667a7f633c6dd9
   # Prepend all log lines with the following tags.
   # config.log_tags = [ :subdomain, :uuid ]
 

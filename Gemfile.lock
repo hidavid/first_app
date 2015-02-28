@@ -52,7 +52,10 @@ GEM
     mime-types (2.4.3)
     minitest (5.5.1)
     multi_json (1.10.1)
+<<<<<<< HEAD
     pg (0.18.1)
+=======
+>>>>>>> 1a15415ab4b1139a6a1687e281667a7f633c6dd9
     rack (1.5.2)
     rack-test (0.6.3)
       rack (>= 1.0)
@@ -93,6 +96,10 @@ GEM
       actionpack (>= 3.0)
       activesupport (>= 3.0)
       sprockets (>= 2.8, < 4.0)
+<<<<<<< HEAD
+=======
+    sqlite3 (1.3.10)
+>>>>>>> 1a15415ab4b1139a6a1687e281667a7f633c6dd9
     thor (0.19.1)
     thread_safe (0.3.4)
     tilt (1.4.1)
@@ -111,10 +118,17 @@ DEPENDENCIES
   coffee-rails (~> 4.0.0)
   jbuilder (~> 2.0)
   jquery-rails
+<<<<<<< HEAD
   pg
+=======
+>>>>>>> 1a15415ab4b1139a6a1687e281667a7f633c6dd9
   rails (= 4.1.7)
   sass-rails (~> 4.0.3)
   sdoc (~> 0.4.0)
   spring
+<<<<<<< HEAD
+=======
+  sqlite3
+>>>>>>> 1a15415ab4b1139a6a1687e281667a7f633c6dd9
   turbolinks
   uglifier (>= 1.3.0)
